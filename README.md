@@ -1,13 +1,5 @@
 # Generative AI Class Resources
 
-> **Updates**
->
-> * 12/4/2023 - Add links to resources showed or discussed in class including demos and or website references 
-> * 12/4/2023 - Add solution notebook for in-class activities (code along)
-> * 12/4/2023 - Added updates class slides 
-> * To do:
->   * Add Colab notebooks for **Hugging Face** examples (ETA 12/5/2023)
-
 ### Supporting content for in-class exercises and activities for my Generative AI Course (3-Day class)
 
 * Generative Models - GNAs, VAEs, and Autoregressive Models
